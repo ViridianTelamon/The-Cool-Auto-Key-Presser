@@ -2,7 +2,7 @@ import time
 import threading
 from pynput.keyboard import Listener, KeyCode, Controller, Key
 
-print("Auto Key Presser")
+print("The Cool Auto Key Presser")
 print("\nBy:  ViridianTelamon.")
 time.sleep(2)
 start_stop_key_input = input("\nEnter A Start And Stop Key (Make Sure The Letter Is Lowercase):  ")
